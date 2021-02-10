@@ -1,0 +1,15 @@
+.meme {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  border: solid gray 1px;
+  border-radius: 1em;
+  margin: 1em;
+  padding: 10px;
+}
+
+.meme__img {
+  width: 200px;
+  justify-content: center;
+}
