@@ -1,6 +1,6 @@
 import React from "react";
 import axios from "axios";
-import Meme from "./Meme";
+import Meme from "../components/Meme";
 import "./Home.css";
 
 class Home extends React.Component {
